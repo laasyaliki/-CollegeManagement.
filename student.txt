@@ -1,0 +1,10 @@
+College Management System
+Student Name: Rahul
+Roll Number: 101
+Department: CSE
+Semester: 5
+Attendance: 85%
+Result: PASS
+Feature: Attendance Management
+Project: College Management System
+Feature: Student Profile
